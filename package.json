@@ -1,0 +1,8 @@
+{
+  "name": "Hackernews_Node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rtemplo/Hackernews_Node.git",
+  "author": "Ray Templo <rtemplo@gmail.com>",
+  "license": "MIT"
+}
